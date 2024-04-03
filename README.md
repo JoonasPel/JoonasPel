@@ -29,7 +29,7 @@
   <!-- Docker -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="vertical-align: middle; height: 100px;"/>
   <!-- RabbitMQ -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="docker" width="90" height="90" style="vertical-align: middle; height: 100px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="90" height="90" style="vertical-align: middle; height: 100px;"/>
 </p>
 
 <!--
