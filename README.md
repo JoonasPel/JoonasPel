@@ -28,6 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="sonarqube" width="100" height="100" style="vertical-align: middle; height: 100px;"/>
   <!-- Docker -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="vertical-align: middle; height: 100px;"/>
+  <!-- RabbitMQ -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="docker" width="90" height="90" style="vertical-align: middle; height: 100px;"/>
 </p>
 
 <!--
